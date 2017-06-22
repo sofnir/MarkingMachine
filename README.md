@@ -11,7 +11,3 @@ Task:
 Marking machine in real life.
 
 ![markingmachine](https://user-images.githubusercontent.com/17216605/27226048-61d8718a-529d-11e7-821e-adcc4b4c1c58.jpg)
-
-One of the few code diagram (this represents main menu code diagram).
-
-![main](https://user-images.githubusercontent.com/17216605/27226050-61d9b7ca-529d-11e7-8065-978e7a6ab9a4.jpg)
